@@ -109,6 +109,9 @@ body {
   .col-lg-12 {
     width: 100%;
   }
+  .page_heading {
+    margin: 30px 0 50px;
+  }
 }
 
 /********** Medium devices only **********/
